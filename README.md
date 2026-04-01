@@ -1,9 +1,17 @@
- 👋 Hi, I’m Ganesh. I excel in leveraging cloud platforms in AWS to optimize application performance, streamline deployment and management, and ensure robust data handling.
+ 👋 Hi, I’m Ganesh. I’m a certified SRE and DevOps Engineer whose core focus is architecting, automating, and scaling highly reliable infrastructure—primarily on AWS and GCP.
 
-My career is marked by successful projects, including the implementation of cloud-native solutions,  and the design of scalable and secure architectures. I've played a pivotal role in driving automation and CI/CD processes, enhancing development efficiency and reducing time to market.
+I excel at bridging the gap between feature velocity and system stability. By treating reliability as a core feature, I help engineering teams ship faster without breaking things.
 
-Moreover, my strong project management abilities ensure successful project delivery within scope, timeline, and budget. I thrive in collaborative environments, excelling in cross-functional team collaboration and effective communication.
+What I bring to the table:
 
-Outside of work, I actively engage in extracurricular activities, such as Cricket, which have instilled discipline, teamwork, and leadership skills. I remain a dedicated lifelong learner, staying updated with the latest industry trends and exploring new technologies. I actively contribute to open-source projects and participate in online communities to share knowledge and learn from industry experts.
+Cloud Infrastructure (AWS & GCP): Provisioning scalable environments using Terraform (IaC), managing EKS/GKE clusters, and optimizing cloud costs.
 
-If you're seeking a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I'm eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth. 📈💡🌐 #DevOps #CloudExpert
+Proactive Observability: Leveraging Prometheus, Grafana, OpenTelemetry, and ELK to tune alert policies and drastically reduce MTTD and MTTR.
+
+Reliability & Automation: Orchestrating secure CI/CD pipelines, enforcing quality gates, and using progressive delivery (canaries/automated rollbacks) to protect error budgets.
+
+Outside of the terminal, you'll find me playing cricket—a passion that has deeply shaped my teamwork, discipline, and leadership under pressure. I’m also a dedicated lifelong learner, constantly exploring new cloud tech and contributing to open-source communities.
+
+If you're looking for a motivated engineer to drive your cloud infrastructure and system reliability forward, let's connect! 📈💡🌐
+
+#AWS #GCP #SRE #DevOps #Observability #CloudComputing
